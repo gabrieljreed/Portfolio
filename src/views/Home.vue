@@ -43,12 +43,12 @@ img.headshot {
 .wrapperText.desktop {
     padding-left: 20px;
     padding-right: 50px;
-    word-break: break-all;
+    word-break: normal;
 }
 
 .wrapperText.mobile {
     padding: 10px;
-    word-break: break-all;
+    word-break: normal;
 }
 
 .wrapperText p {
